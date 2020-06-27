@@ -1,4 +1,8 @@
 # Python-for-everyone-coursera
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+
 All my assignments from the Python for Everyone coursera specialisation  (https://www.coursera.org/specializations/python)
 
 ## Courses
