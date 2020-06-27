@@ -1,5 +1,5 @@
 fname = input("Enter file name: ")
-
+#use mbox-short.txt
 
 fh = open(fname)
 count = 0
